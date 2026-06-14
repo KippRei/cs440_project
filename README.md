@@ -1,11 +1,7 @@
-#CS440 Project
+### CS440 Project
 
-##Python dependencies:
-
-mysql-connector-python
-
-json
-
-tkinter
-
-hashlib
+<ins>Python dependencies:</ins>
+</br>mysql-connector-python
+</br>json
+</br>tkinter
+</br>hashlib
